@@ -1,0 +1,3 @@
+.env*
+ConstGen.elm
+elm-const-gen
